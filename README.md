@@ -1,9 +1,11 @@
 # Berufs-Hilfsklassifikation mit Tätigkeitsbeschreibungen
 
 ```diff
-+ This repository has been moved to https://github.com/occupationMeasurement/auxiliary-classification
++ This repository has been moved.
 - The version here has been archived and is no longer maintained.
 ```
+
+### The latest version can be found at https://github.com/occupationMeasurement/auxiliary-classification
 
 Dieser Ordner enthält den elektronischen Anhang zu folgender Publikation:
 
