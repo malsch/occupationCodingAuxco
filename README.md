@@ -1,5 +1,10 @@
 # Berufs-Hilfsklassifikation mit Tätigkeitsbeschreibungen
 
+```diff
++ This repository has been moved to https://github.com/occupationMeasurement/auxiliary-classification
+- The version here has been archived and is no longer maintained.
+```
+
 Dieser Ordner enthält den elektronischen Anhang zu folgender Publikation:
 
 Schierholz, Malte; Brenner, Lorraine; Cohausz, Lea; Damminger, Lisa; Fast, Lisa; Hörig, Ann-Kathrin; Huber, Anna-Lena; Ludwig, Theresa; Petry, Annabell; Tschischka, Laura (2018):
