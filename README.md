@@ -14,7 +14,7 @@ Schierholz, Malte; Brenner, Lorraine; Cohausz, Lea; Damminger, Lisa; Fast, Lisa;
  (IAB-Discussion Paper, 2018), Nürnberg, 45 S.
 
 Das genannte Discussion-Paper ist online verfügbar unter 
-https://www.iab.de/183/section.aspx/Publikation/k180509301
+[https://iab.de/publikationen/publikation/?id=8427505](https://iab.de/publikationen/publikation/?id=8427505)
 
 Ein zusammenfassende Darstellung ist publiziert in
 
